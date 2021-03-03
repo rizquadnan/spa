@@ -1,0 +1,8 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "StorybookZeroState": {
+    "description": "Auto imported from components/storybook/ZeroState.vue"
+  }
+}
